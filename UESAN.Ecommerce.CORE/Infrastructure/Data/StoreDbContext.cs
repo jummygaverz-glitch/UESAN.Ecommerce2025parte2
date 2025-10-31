@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using UESAN.Ecommerce.CORE.Core.Entities;
 
 namespace UESAN.Ecommerce.CORE.Infrastructure.Data;
 
